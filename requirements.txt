@@ -1,0 +1,5 @@
+customtkinter>=5.2
+requests>=2.31
+python-dotenv>=1.0
+langdetect>=1.0.9
+truststore>=0.9
