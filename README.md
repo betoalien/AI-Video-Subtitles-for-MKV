@@ -39,7 +39,7 @@ The source language is detected automatically and removed from the list, so you 
 ## 🚀 Quick start
 
 ```bash
-git clone <your-repo-url> video-subtitles
+git clone https://github.com/betoalien/AI-Video-Subtitles-for-MKV.git
 cd video-subtitles
 cp .env.example .env      # add your free API keys
 ./start.sh                # macOS / Linux
